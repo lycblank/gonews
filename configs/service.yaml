@@ -1,0 +1,6 @@
+mysql:
+  username: test
+  password: xxxxx
+  addr: 127.0.0.1:3306
+  dbname: gonews
+  param: charset=utf8&parseTime=True&loc=Local
